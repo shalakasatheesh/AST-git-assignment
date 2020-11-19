@@ -1,7 +1,8 @@
 # Report
 ## Team members:
-* \<your name> \<your last name>
-* \<your name> \<your last name>
+* Simon Deussen
+* Malika Navaratna
+* Shalaka Satheesh
 
 ### Changes
 | Change message | Author | Date & Hour | Lines changed |
