@@ -1,7 +1,5 @@
 # Report
 ## Team members:
-* Simon Deussen
-* Malika Navaratna
 * Shalaka Satheesh
 
 ### Changes
