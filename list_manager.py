@@ -1,8 +1,7 @@
 # List manager
 
 def random_order(list):
-    '''returns the list with random order'''
-    pass
+    return list
 
 def order_by_increasing_value(list):
     '''returns the list ordered by increasing value'''
